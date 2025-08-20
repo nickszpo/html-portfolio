@@ -1,6 +1,6 @@
 # HTML Portfolio
 
-A simple, accessible, and semantic HTML portfolio website with no CSS or JavaScript.
+A simple, accessible, and semantic HTML portfolio website for Niko De Vera with no CSS or JavaScript.
 
 ## Project Structure
 
